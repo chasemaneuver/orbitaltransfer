@@ -95,7 +95,7 @@ The source code in this repository is distributed under the MIT License. See the
 
 ## Authors
 
-- Michelle Vrapi
+- Michelle Vrapi ([ORCID](https://orcid.org/0009-0007-3304-8042))
 - Andrea Perego
 - Alessia Riva
 
