@@ -2,6 +2,7 @@
 
 [![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22928190.svg)](https://doi.org/10.5281/zenodo.22928190)
 [![Supplementary Videos DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22927742.svg)](https://doi.org/10.5281/zenodo.22927742)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 This repository contains the MATLAB codes developed for the academic project *Optimization of Transfers Between Non-Coplanar Geocentric Orbits Using Bi-Elliptic Bitangent Maneuvers and Lambert's Problem*, carried out at Politecnico di Milano.
 
